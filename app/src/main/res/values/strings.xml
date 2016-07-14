@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">SlideNerdGridView</string>
+    <string-array name="country_name"   >
+        <item>Germany</item>
+        <item>Vietname</item>
+        <item>Japan</item>
+        <item>USA</item>
+        <item>England</item>
+        <item>China</item>
+        <item>Korean</item>
+    </string-array>
+</resources>
